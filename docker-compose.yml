@@ -7,7 +7,7 @@ services:
     restart: always
     environment:
       POSTGRES_USER: niti
-      POSTGRES_PASSWORD: NitiPg@2026!
+      POSTGRES_PASSWORD: niti123
       POSTGRES_DB: niticopilot
     ports:
       - "5432:5432"
